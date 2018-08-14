@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 小狗
 小猫
 小熊在公园吃竹子
+狮子
