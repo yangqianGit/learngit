@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 小老虎
 小狗
 小猫
+小熊
